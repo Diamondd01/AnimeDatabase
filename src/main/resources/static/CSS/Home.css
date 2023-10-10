@@ -1,0 +1,50 @@
+body{
+   background-color: Green;
+}
+.Logo{
+  width:80%;
+   height:80%;
+   padding-bottom: 2px;
+    margin-left:10%;
+}
+.navbar-btn{
+   margin-top: 50%;
+}
+
+#searchInput {
+    width:80%;
+    display: block;
+    margin: 0 auto;
+   display: flex;
+    align-items: center;
+
+}
+
+#searchContainer{
+    display: flex;
+    align-items: center;
+}
+#characterResults{
+    background-color: black;
+    color:White;
+    margin: 50px 23% 0 25%;
+}
+
+#custom-notification {
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+.favbtn {
+    background-color: crimson;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}

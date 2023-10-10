@@ -1,0 +1,19 @@
+.form-group {
+    align-items: center;
+    margin: 5% 0 5% 0;
+    width: 50%;
+    color: white;
+}
+
+.container {
+    background-image: url("../Images/My hero.png");
+    align-items: center;
+}
+
+h1 {
+    color: white;
+}
+
+header {
+    color: white;
+}
